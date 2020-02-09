@@ -38,7 +38,7 @@ const styles = {
     alignItems: 'center',
     flexDirection: 'row',
     backgroundColor: Colors.Primary,
-    paddingHorizontal: 10,
+    paddingHorizontal: 102,
   },
   left: {
     flex: 1,
